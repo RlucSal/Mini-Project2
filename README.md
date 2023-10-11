@@ -1,2 +1,2 @@
-# Mini-Project2
+# Mini-Project-Week2
 Create CSS Snippet Cheat Sheet
